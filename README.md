@@ -11,4 +11,3 @@ cd KNN-SSD
 pip install -r requirements.txt
 ```
 
-**The code will be released soon!**
